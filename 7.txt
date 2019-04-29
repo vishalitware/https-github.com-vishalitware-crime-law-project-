@@ -1,0 +1,39 @@
+PW.1 Arcot K. Balraj,Chief Manager, Administrative affairs of M/s. SIS Infotech Private Limited situated in Lakshmi Cyber Centre, Road No.12, Banjara Hills, Hyderabad lodged Ex.P1 complaint on 23-12-2008 in Cyber Crimes P.S. CID,Hyderabad stating that the complainant company by name M/s. SIS Infotech Pvt. Ltd., is one of the largest market research firms head quartered in USA with substantial operations at Hyderabad having 300 employees in the office has been carrying in the business of research station and support to its parent company in the USA viz., M/s. Global Industry Analysts Inc.,(GIA). In the process of their day to day operations, the company did research for its various clients of GIA and in the process, the company created substantial huge data and content which is hosted on its Adobe Content Server of M/s. Global Industry Analysts Inc., (GIA) and can beaccessed only by registered users who have access with permissions. The data is in the form analysed documents called as "Research Reports" which carries high pecuniary value of which complainant company holds proprietary Copy Right.
+2. It is alleged that the content, i.e. Research reports was hacked
+by somebody successfully by hacking their server www.strategyR.com and
+downloaded several e-Reports through some free public sites. PW.1
+furnished possible information of the hacker having worked out from their
+server as Prabhakar.sampath@gmail.com and IP address is 61.95.152.145
+and requested the police to take necessary action. Basing on the report,
+LW.11 M. Ganapathi Rao, Dy Superintendent of Police, Cyber Crimes P.S.
+Hyderabad registered the complaint as a case in Cr.18/2008 u/Sec.66 of
+Information Technology Act, 2000 and took up investigation. He secured
+PW.1, PW.2 examined them and recorded their detailed statements and
+came to know that accused hacked the content web server of complainant’s
+company through IP address 61.95.152.145 provided by Bharathi Airtel
+Ltd., on that LW.11 DSP addressed a letter to its Manager to furnish the end user details of IP address i.e. 61.95.152.145, who on verification gave theinformation that the said IP address was allotted to M/s. Frost & SullivanPrivate Limited 101, Santhome High Road, Foreshore Estate, Chennai,Tamilnadu State and gave the contact details of Mr. M. Kirbakaram email ID Kripakaran@frost.com Mobile No.978993031 on the information given by Bharthi Airtel, LW.11 DSP obtained search warrant from the court and conducted search at the residence of accused situated at house bearing No.35A, Magazine Road, St. Thomos Mount, Chennai in the presence of mediators PW.7 and LW.9 Jakhir Hussain and seized one pen drive which
+contains six files in .pdf format viz.,Anticoagulatns.pdf,Bulk_Paclitaxel.pdf, CNS_Therapeutics.pdf, Human_Vaccines.pdf, Microplate_instrumentation_Supplies.pdf,
+ Therapeutic_Aphersis.pdf which are downloaded by accused from the website i.e. WWW.StrategyR.com of the complainant company by using the computer system installed at his office i.e. M/s. Frost & Sullivan Pvt. Ltd., Chennai. Later, LW.11 DSP arrested the accused on 29-12-2008 at 2.00 PM and recorded his confessional statement and on his information he seized one computer system S605 which was allotted to the accused in his company which contains the said six downloaded documents in the system. Later, LW.11 DSP examined PW.3 to PW.5, Lw.6 Kirthi Thimmanagoudar who are working in M/s. Frost & Sullivan Pvt. Ltd., LW.11 DSP forwarded material objects i.e.Pen drive and CPU to APFSL, Hyderabad for analysis and report. PW.9 Inspector of Police, Cyber Crimes P.S. CID, Hyderabad collected the FSL report from PW.8 Computer Forensic Expert, APFSL, Hyderabad who analysed the material objects and issued opinion stating that pen drive contains six files viz.,CID filed Charge sheet against the accused u/Sec.66 of Information Technology Act, 2000 for hacking content server of complainants company.
+
+The accused stated that he is unmarried and his parents
+are alive, now he is working in Cap Gemini as Senior Consultant at
+Bangalore and if he is sentenced to jail, he will lose his job and
+prepared to pay some fine and prayed the court to let him off by
+imposing some amount of fine, but, the material on record discloses,
+that the accused had downloaded e-Reports, carry a high pecuniary
+value which cannot be estimated assumed in terms of money. The
+material on record further reveal that Research Reports are generated
+after painstaking study by highly qualified and experienced team on
+various topics by spending lot of time and expense, therefore, in these
+type of offences lenient punishment like fine is not justified or
+otherwise the very object of the act will be defeated and ultimately it
+will affect the economy of the State, hence, the accused in this case,
+does not deserve lenient view and he shall be punished properly.
+ In the result, the accused is found guilty for the offence
+u/Sec.66 of Information Technology Act 2000 and accordingly he is
+convicted u/Sec.248(2) Cr.P.C. and sentenced to suffer R.I. for a
+period of two years and shall pay a fine of Rs.10,000/- in default of
+payment of fine the accused shall undergo S.I. for a period of six
+months. Remand period undergone by the accused if any, shall be set off
+u/Sec.428 Cr.P.C. MO.1 and MO.2 shall be destroyed after appeal time
+is over.
